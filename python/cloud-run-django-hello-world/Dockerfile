@@ -1,5 +1,5 @@
 # Python image to use.
-FROM python:3.14.0rc2-alpine
+FROM python:3.14.0-alpine
 
 # Set the working directory to /app
 WORKDIR /app
